@@ -1,0 +1,19 @@
+.navbar {
+    background-color: rgb(178, 52, 52)
+}
+
+.nav-link {
+    color: white;
+}
+.navbar-brand {
+    color: white;
+    font-size: 40px;
+    font-family:serif;
+}
+
+.info {
+    background-color: rgb(178, 52, 52);
+    text-align: center;
+    color: white;
+
+}
