@@ -4,6 +4,7 @@
 
 .nav-link {
     color: white;
+    font-family: serif;
 }
 .navbar-brand {
     color: white;
@@ -16,4 +17,11 @@
     text-align: center;
     color: white;
 
+}
+footer{
+    height: 15vh;
+    font-family: serif;
+}
+.nav-item{
+    margin-left: 120px;
 }

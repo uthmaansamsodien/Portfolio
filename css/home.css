@@ -3,6 +3,7 @@
 }
 .nav-link {
     color: white;
+    font-family: serif;
 }
 .navbar-brand {
     color: white;
@@ -10,11 +11,19 @@
     font-family:serif;
 }
 img{
-	border-radius: 2rem;
-    height: 600px;
-    width: 400px;
-    margin-top: 5px;
-    margin-bottom: 5px;
+	/* border-radius: 50%; */
+    max-height: 600px;
+    max-width: 100%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+
+.details{
+    margin-top: 17%;
+    font-family: serif;
 }
 
 .babies {
@@ -22,9 +31,32 @@ img{
     justify-content: center;
 }
 
+footer{
+    height: 15vh;
+    font-family: serif;
+}
+
 .info {
     background-color: rgb(178, 52, 52);
     text-align: center;
     color: white;
+    margin-bottom:0%;
 
 }
+.btn btn-primary {
+    padding-top: 80px;
+}
+.logo{
+    padding-right: 50px;
+}
+
+
+@media screen and (width < 1000px) {
+    .babies{
+        flex-direction: column wrap;
+    }
+}
+.nav-item{
+    margin-left: 120px;
+}
+

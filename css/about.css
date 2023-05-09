@@ -4,6 +4,7 @@
 
 .nav-link {
     color: white;
+    font-family: serif;
 }
 .navbar-brand {
     color: white;
@@ -16,4 +17,68 @@
     text-align: center;
     color: white;
 
+}
+
+footer{
+    height: 15vh;
+    font-family: serif;
+}
+
+.nav-item{
+    margin-left: 120px;
+}
+h1 {
+    text-align: center;
+    font-family: serif;
+    text-decoration:underline;
+    
+}
+
+img{
+    max-height: 600px;
+    max-width: 100%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+h4{
+    font-family: serif;
+}
+@media screen and (width < 1000px) {
+    .babies{
+        flex-direction: column wrap;
+    }
+}
+.col{
+    font-family: serif;
+    text-align: center;
+}
+
+.about{
+    padding-top: 30px;
+}
+
+.about p{
+    font-size: 19px;
+}
+
+.about h2{
+    font-size:39px;
+    text-decoration: underline;
+
+}
+
+.col-education h2{
+    font-size:39px;
+    text-decoration: underline;
+}
+
+.col-education{ 
+    padding-top: 150px;
+}
+
+.col-education{
+    font-size: 19px;
 }
