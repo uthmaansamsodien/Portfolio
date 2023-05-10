@@ -25,3 +25,18 @@ footer{
 .nav-item{
     margin-left: 120px;
 }
+.col{ 
+    font-family: serif;
+    /* text-decoration: underline; */
+}
+
+.heading {
+    font-family: serif;
+    text-align: center;
+    text-decoration:underline;
+}
+
+.testimonials{ 
+    font-family: serif;
+    text-align:center;
+}

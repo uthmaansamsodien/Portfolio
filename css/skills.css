@@ -31,15 +31,22 @@ h1{
     font-family: serif;
     text-align: center;
     text-decoration: underline;
+
 }
 .interests {
     font-family: serif;
     font-size: 39px;
-    text-decoration: underline;
+    padding: 70px;
+ 
 
 }
 .skills{
     font-family: serif;
     font-size: 39px;
-    text-decoration: underline;
+    padding: 70px
+}
+
+.hello {
+    font-size: 19px;
+    text-decoration: none;  
 }

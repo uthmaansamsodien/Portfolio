@@ -37,6 +37,7 @@ p{
 }
 .form-label{
     font-family: serif;
+    font-weight: bold;
 }
 .submit{
     margin-bottom:5px;
@@ -45,3 +46,4 @@ p{
 h1{
     text-decoration: underline;
 }
+
