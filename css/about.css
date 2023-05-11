@@ -51,6 +51,27 @@ h4{
     .babies{
         flex-direction: column wrap;
     }
+
+    .col-about-me {
+        display: contents;
+        padding: 16px;
+        margin: 16px;
+    }
+
+    .col-education {
+        display: contents;
+        padding: 16px;
+        margin: 16px;
+    }
+
+    .head-header {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* text-align: center;
+        margin: auto; */
+    
+    }
 }
 .col{
     font-family: serif;
@@ -82,15 +103,18 @@ h4{
 .col-education{ 
     padding-top: 150px;
     color:rgb(45, 44, 44);
+    
 }
 
 .col-education{
     font-size: 19px;
     color:rgb(45, 44, 44);
+
 }
 body{ 
     background: #fdeded; 
 }
 ::-webkit-scrollbar{
-    display: none;
+    display:none;
 }
+

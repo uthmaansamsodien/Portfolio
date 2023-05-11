@@ -56,8 +56,8 @@ body{
     background: #fdeded; 
 }
 .card-link{
-    text-decoration: underline;
-    color:  rgb(178, 52, 52);
+    text-decoration: none;
+    color:  #fdeded;
 }
 ::-webkit-scrollbar{
     display: none;
