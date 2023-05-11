@@ -3,9 +3,11 @@ body{
 }
 h1{
     color: #bc3d3d;
+    font-size: 80px;
 }
 p{
-    color: #bc3d3d;
+    color: rgb(45, 44, 44);
+    font-size: 30px;
 }
 .navbar {
     background-color: rgb(178, 52, 52)
@@ -54,6 +56,7 @@ footer{
 }
 .btn btn-primary {
     padding-top: 80px;
+    
 }
 .logo{
     padding-right: 50px;
@@ -68,4 +71,8 @@ footer{
 .nav-item{
     margin-left: 120px;
 }
+::-webkit-scrollbar{
+    display: none;
+}
+
 

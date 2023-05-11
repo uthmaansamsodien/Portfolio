@@ -61,3 +61,6 @@ h3{
 h2{
     color: rgb(45, 44, 44);
 }
+::-webkit-scrollbar{
+    display: none;
+}

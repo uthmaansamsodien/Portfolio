@@ -50,4 +50,6 @@ h1{
 body{ 
     background: #fdeded; 
 }
-
+::-webkit-scrollbar{
+    display: none;
+}
