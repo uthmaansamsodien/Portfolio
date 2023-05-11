@@ -31,13 +31,14 @@ h1{
     font-family: serif;
     text-align: center;
     text-decoration: underline;
+    color:rgb(45, 44, 44);
 
 }
 .interests {
     font-family: serif;
     font-size: 39px;
     padding: 70px;
- 
+    color:rgb(45, 44, 44);
 
 }
 .skills{
@@ -49,4 +50,14 @@ h1{
 .hello {
     font-size: 19px;
     text-decoration: none;  
+    color:rgb(45, 44, 44);
+}
+body{ 
+    background: #fdeded; 
+}
+h3{
+    color:rgb(45, 44, 44);
+}
+h2{
+    color: rgb(45, 44, 44);
 }

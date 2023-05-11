@@ -1,12 +1,21 @@
+body{ 
+    background: #fdeded; 
+}
+h1{
+    color: #bc3d3d;
+}
+p{
+    color: #bc3d3d;
+}
 .navbar {
     background-color: rgb(178, 52, 52)
 }
 .nav-link {
-    color: white;
+    color: #fdeded;
     font-family: serif;
 }
 .navbar-brand {
-    color: white;
+    color: #fdeded;
     font-size: 40px;
     font-family:serif;
 }
@@ -39,7 +48,7 @@ footer{
 .info {
     background-color: rgb(178, 52, 52);
     text-align: center;
-    color: white;
+    color: #fdeded;
     margin-bottom:0%;
 
 }

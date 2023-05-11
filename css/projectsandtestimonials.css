@@ -1,3 +1,4 @@
+
 .navbar {
     background-color: rgb(178, 52, 52)
 }
@@ -28,15 +29,33 @@ footer{
 .col{ 
     font-family: serif;
     /* text-decoration: underline; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .heading {
     font-family: serif;
     text-align: center;
     text-decoration:underline;
+    
 }
 
 .testimonials{ 
     font-family: serif;
     text-align:center;
+    color:rgb(45, 44, 44);
+}
+
+.projects{
+    display: flex;
+    justify-content: center;
+    color:rgb(45, 44, 44);
+}
+body{ 
+    background: #fdeded; 
+}
+.card-link{
+    text-decoration: underline;
+    color:  rgb(178, 52, 52);
 }

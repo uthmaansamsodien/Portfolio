@@ -31,6 +31,7 @@ h1 {
     text-align: center;
     font-family: serif;
     text-decoration:underline;
+    color:rgb(81, 81, 81);
     
 }
 
@@ -62,23 +63,31 @@ h4{
 
 .about p{
     font-size: 19px;
+    color:rgb(45, 44, 44);
 }
 
 .about h2{
     font-size:39px;
     text-decoration: underline;
+    color:rgb(45, 44, 44);
 
 }
 
 .col-education h2{
     font-size:39px;
     text-decoration: underline;
+    color:rgb(45, 44, 44);
 }
 
 .col-education{ 
     padding-top: 150px;
+    color:rgb(45, 44, 44);
 }
 
 .col-education{
     font-size: 19px;
+    color:rgb(45, 44, 44);
+}
+body{ 
+    background: #fdeded; 
 }
