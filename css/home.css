@@ -1,7 +1,7 @@
 body{ 
     background: #fdeded; 
 }
-h1{
+h2{
     color: #bc3d3d;
     font-size: 80px;
 }
@@ -66,6 +66,10 @@ footer{
 @media screen and (width < 1000px) {
     .babies{
         flex-direction: column wrap;
+    }
+
+    h2{
+        font-size: 2rem;
     }
 }
 .nav-item{
