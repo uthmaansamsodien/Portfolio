@@ -62,3 +62,8 @@ body{
 ::-webkit-scrollbar{
     display: none;
 }
+@media screen and (width < 1000px) {
+    footer{
+        height: 8rem;
+    }
+}

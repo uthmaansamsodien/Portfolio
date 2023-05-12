@@ -38,10 +38,10 @@ h1 {
 img{
     max-height: 600px;
     max-width: 100%;
-    margin-top: 10px;
+    margin-top: 1rem;
     margin-left: 10px;
     margin-right: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 2rem;
 
 }
 h4{
@@ -86,6 +86,13 @@ h4{
         text-align: center;
         margin: auto;
     }
+    footer{
+        height: 8rem;
+    }
+
+    #font-s{
+        font-size: 10px;
+    }
 }
 .col{
     font-family: serif;
@@ -99,12 +106,19 @@ h4{
 .about p{
     font-size: 19px;
     color:rgb(45, 44, 44);
+    margin-bottom :9rem;
+
+}
+
+.mt-10{
+    margin-top: 7rem;
 }
 
 .about h2{
     font-size:39px;
     text-decoration: underline;
     color:rgb(45, 44, 44);
+    margin-bottom:5rem
 
 }
 
@@ -131,4 +145,3 @@ body{
 ::-webkit-scrollbar{
     display:none;
 }
-
